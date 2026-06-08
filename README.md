@@ -1,20 +1,41 @@
-MedGate: Smart Patient and Medication Management System
+# MedGate
 
-A smart clinic management system designed to organize patient information and medication inventory efficiently, enabling faster patient identification, medication tracking, and streamlined clinic operations.
+### Smart Patient and Medication Management System
 
-Project by:
-  * Samiha Alem
-  * Raghad Khalil
-  * Rabab Jamal
+A smart clinic management system designed to efficiently manage patient records and medication inventory, enabling patient identification, medication tracking, and streamlined clinic operations.
 
-Details about the project:
+## 👥 Project Contributors
 
-MedGate is a smart clinic management system that helps organize patient records and medication inventory, enabling fast patient identification, medication tracking, and efficient clinic operations.
+* Samiha Alem
+* Raghad Khalil
+* Rabab Jamal
 
-The system is intended for clinics that need an internal patient identification solution. New patients can register through a touchscreen interface and receive a printed identification label containing a unique patient ID and barcode. This allows the clinic staff to quickly identify and manage patient records even when patients do not have a clinic-issued identification card.
+## 🚀 Key Features
 
-Returning patients can simply scan their barcode to retrieve their information without repeating the registration process.
+### Patient Registration
 
-In addition, MedGate provides a medication inventory management module that supports medication registration, stock tracking, dispensing records, expiration monitoring, audit logging, and inventory reporting.
+New patients can register through a touchscreen interface and receive a printed identification label containing a unique patient ID and barcode.
 
-The project is based on a Raspberry Pi platform connected to a touchscreen display, barcode scanner, and label printer.
+### Quick Patient Identification
+
+Returning patients can scan their barcode to retrieve their information without repeating the registration process.
+
+### Medication Inventory Management
+
+The system supports medication registration, stock tracking, dispensing records, expiration-date monitoring, inventory reporting, and medication lookup.
+
+### Audit and Tracking
+
+Medication-related actions are recorded to maintain traceability and inventory accuracy.
+
+## 🔌 Hardware Components
+
+The system is powered by a Raspberry Pi platform connected to the following peripherals:
+
+* **Barcode Scanner** – Used for patient identification and barcode-based operations.
+* **Label Printer** – Used for printing patient identification labels.
+* **Raspberry Pi** – Main processing unit running the system.
+
+## 🎯 Project Goal
+
+MedGate provides clinics with an internal patient identification and medication management solution, helping staff maintain accurate patient records and efficiently manage medication inventory.
