@@ -32,9 +32,10 @@ Medication-related actions are recorded to maintain traceability and inventory a
 
 The system is powered by a Raspberry Pi platform connected to the following peripherals:
 
-* **Barcode Scanner** – Used for patient identification and barcode-based operations.
-* **Label Printer** – Used for printing patient identification labels.
-* **Raspberry Pi** – Main processing unit running the system.
+* **Touchscreen Display** - Serves as the primary user interface for patient registration and system operation.
+* **Barcode Scanner** - Used for patient identification and barcode-based operations.
+* **Label Printer** - Used for printing patient identification labels.
+* **Raspberry Pi** - Main processing unit running the system.
 
 ## 🎯 Project Goal
 
